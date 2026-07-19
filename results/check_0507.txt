@@ -1,0 +1,2 @@
+2005-01: eligible=10 tenbagger=2 prob=20.0%
+2007-01: eligible=35 tenbagger=0 prob=0.0%
